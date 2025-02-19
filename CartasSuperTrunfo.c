@@ -58,7 +58,7 @@ scanf(" %d", &ponto_turistico);
 
 
 
-printf("---------- INFORMAÇÕES DA CARTA ---------- \n"); //MOSTRANDO AS INFORMAÇÕES DA CARTA
+printf("----------> INFORMAÇÕES DA CARTA <---------- \n"); //MOSTRANDO AS INFORMAÇÕES DA CARTA
 
 printf("-----> ESTADO DA CARTA: %c \n", Estado);
 printf("-----> CIDADE DA CARTA: %c \n", Cidade);
